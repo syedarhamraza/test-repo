@@ -1,1 +1,2 @@
-added a new line here
+Added a new file using unix cmd echo from emulator
+
